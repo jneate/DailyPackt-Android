@@ -2,7 +2,7 @@
 
 A simple Android application for keeping tabs on Packt's daily free book giveaway.
 
-[![Play Store Link](https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/google_play.png)](https://play.google.com/store/apps/details?id=com.iambenzo.dailypackt)
+[![Play Store Link](http://www.free-icons-download.net/images/google-play-icon-22128.png)](https://play.google.com/store/apps/details?id=com.iambenzo.dailypackt)
 
 ## Use Case
 
