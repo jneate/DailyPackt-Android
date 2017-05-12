@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Daily Packt</string>
+    <string name="book_image">Book image</string>
+    <string name="download">Download</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="epub">ePub</string>
+    <string name="get_this_book">Get This Book</string>
+    <string name="log_in">Log In</string>
+    <string name="mobi">Mobi</string>
+    <string name="pdf">PDF</string>
+</resources>
