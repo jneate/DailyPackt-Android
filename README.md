@@ -10,7 +10,7 @@ I used a Python program, which I contributed to, in order to collect my free boo
 
 However, I'm not always with my computer to turn it on and run the program and also I don't always want what Packt has offered for the day.
 
-I created this app in order to allow me to quickly view the free book of the day, before making a decision on whether I wanted it or not (without being pestered to buy something via full-page adverts).
+I created this app in order to allow me to quickly view the free book of the day, before making a decision on whether I wanted it or not (without being pestered to buy something via full-page adverts)
  
 ## Features
 
